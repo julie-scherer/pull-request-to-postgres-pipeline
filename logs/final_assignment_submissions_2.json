@@ -1,0 +1,88 @@
+{
+  "assignment_title": "Fact Data Modeling with Iceberg",
+  "assignment_link": "https://classroom.github.com/a/XXXXX",
+  "github_org": "GitHub-Organization",
+  "repo_name": "fact-data-modeling",
+  "pull_requests": {
+    "7": {
+      "pr_id": 1878470000,
+      "state": "open",
+      "submission_link": "https://github.com/GitHub-Organization/fact-data-modeling/pull/7",
+      "github_username": "git_username_masked",
+      "submission_time": "2024-05-20T14:21:09Z",
+      "head_sha": "4836c2f35b2c9cabe0b83c7611524349dedXXXXX",
+      "workflow_run": {
+        "run_id": 9162636933,
+        "run_number": 45,
+        "event": "pull_request_target",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2024-05-20T17:32:24Z",
+        "updated_at": "2024-05-20T17:38:20Z",
+        "workflow_url": "https://github.com/GitHub-Organization/fact-data-modeling/actions/runs/run_id",
+        "head_repository": "git_username_masked/fact-data-modeling-git_username",
+        "fork": true
+      }
+    },
+    "6": {
+      "pr_id": 1877010000,
+      "state": "open",
+      "submission_link": "https://github.com/GitHub-Organization/fact-data-modeling/pull/6",
+      "github_username": "git_username_masked",
+      "submission_time": "2024-05-19T04:29:55Z",
+      "head_sha": "8785161bcedf022344846556ce466a35d5bXXXXX",
+      "workflow_run": {
+        "run_id": 9152826141,
+        "run_number": 31,
+        "event": "pull_request_target",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2024-05-20T02:57:59Z",
+        "updated_at": "2024-05-20T03:02:09Z",
+        "workflow_url": "https://github.com/GitHub-Organization/fact-data-modeling/actions/runs/run_id",
+        "head_repository": "git_username_masked/fact-data-modeling-git_username",
+        "fork": true
+      }
+    },
+    "3": {
+      "pr_id": 1872470000,
+      "state": "open",
+      "submission_link": "https://github.com/GitHub-Organization/fact-data-modeling/pull/3",
+      "github_username": "git_username_masked",
+      "submission_time": "2024-05-16T04:26:52Z",
+      "head_sha": "a5e6a9a8643b77b41c2e28b806544713b18XXXXX",
+      "workflow_run": {
+        "run_id": 9152376246,
+        "run_number": 25,
+        "event": "pull_request_target",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2024-05-20T01:59:11Z",
+        "updated_at": "2024-05-20T02:02:57Z",
+        "workflow_url": "https://github.com/GitHub-Organization/fact-data-modeling/actions/runs/run_id",
+        "head_repository": "git_username_masked/fact-data-git_username",
+        "fork": true
+      }
+    },
+    "2": {
+      "pr_id": 1871760000,
+      "state": "open",
+      "submission_link": "https://github.com/GitHub-Organization/fact-data-modeling/pull/2",
+      "github_username": "git_username_masked",
+      "submission_time": "2024-05-15T18:11:21Z",
+      "head_sha": "c342587c2e039d6a68074921cd5271f77efXXXXX",
+      "workflow_run": {
+        "run_id": 9100657204,
+        "run_number": 3,
+        "event": "pull_request_target",
+        "status": "completed",
+        "conclusion": "failure",
+        "created_at": "2024-05-15T18:11:24Z",
+        "updated_at": "2024-05-15T18:12:30Z",
+        "workflow_url": "https://github.com/GitHub-Organization/fact-data-modeling/actions/runs/run_id",
+        "head_repository": "git_username_masked-Organization/fact-data-modeling-git_username",
+        "fork": true
+      }
+    }
+  }
+}

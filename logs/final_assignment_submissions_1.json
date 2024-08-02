@@ -1,0 +1,48 @@
+{
+  "assignment_title": "Dimensional Data Modeling with Iceberg",
+  "assignment_link": "https://classroom.github.com/a/XXXXX",
+  "github_org": "GitHub-Organization",
+  "repo_name": "dimensional-data-modeling",
+  "pull_requests": {
+    "000": {
+      "pr_id": 1877264000,
+      "state": "open",
+      "submission_link": "https://github.com/GitHub-Organization/dimensional-data-modeling/pull/2",
+      "github_username": "git_username-1",
+      "submission_time": "2024-05-19T19:12:11Z",
+      "head_sha": "73dd92f6149b0715124963382d6571d3071c66a7",
+      "workflow_run": {
+        "run_id": 9149934973,
+        "run_number": 611,
+        "event": "pull_request_target",
+        "status": "completed",
+        "conclusion": "failure",
+        "created_at": "2024-05-19T19:12:14Z",
+        "updated_at": "2024-05-19T19:14:02Z",
+        "workflow_url": "https://github.com/GitHub-Organization/dimensional-data-modeling/actions/runs/9149930000",
+        "head_repository": "git-username-1/dimensional-data-modeling",
+        "fork": true
+      }
+    },
+    "001": {
+      "pr_id": 1874774000,
+      "state": "open",
+      "submission_link": "https://github.com/GitHub-Organization/dimensional-data-modeling/pull/1",
+      "github_username": "git_username-2",
+      "submission_time": "2024-05-17T05:39:52Z",
+      "head_sha": "74b68a5b8f79f6e808908c5f3448bec6f4fb1a0c",
+      "workflow_run": {
+        "run_id": 9123513508,
+        "run_number": 610,
+        "event": "pull_request_target",
+        "status": "completed",
+        "conclusion": "success",
+        "created_at": "2024-05-17T05:39:57Z",
+        "updated_at": "2024-05-17T05:43:23Z",
+        "workflow_url": "https://github.com/GitHub-Organization/dimensional-data-modeling/actions/runs/9123510000",
+        "head_repository": "git-username-2/dimensional-data-modeling",
+        "fork": true
+      }
+    }
+  }
+}
